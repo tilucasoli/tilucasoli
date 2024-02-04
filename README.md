@@ -22,5 +22,5 @@ I've been working with native iOS since 2019 and Flutter since 2022. I'm active 
 
 *   🌍  I'm based in Fortaleza, Brazil
 *   ✉️  You can contact me at [tilucasoli@gmail.com](mailto:tilucasoli@gmail.com)
-*   🧠  I'm learning Flutter
+*   👨🏻‍💻 I've written about some tech stuff on my [Personal Blog](https://tilucasoli.github.io/personal-blog/).
 *   🤝  I'm open to collaborating on Amazing Projects, especially open source.
